@@ -1,3 +1,3 @@
-# dice-roll-dynamic-routes
+# dice-roll-dynamic
 
 https://dice-roll.matchthetarget.com/
